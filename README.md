@@ -1,7 +1,15 @@
-### Hi there 👋, i'm Olowo Jude
+# Hi there 👋, i'm Olowo Jude
 
-## 💫 About Me:
-✨ I love bringing ideas to life with code.<br>🔭 I currently work with React JS and Django.<br>🌱 I’m currently learning more about React JS.<br>👯 I’m looking to collaborate and contribute to open source projects.<br>✉️  You can contact me at judeolowo1@gmail.com.<br>
+## What i do:
+As a full-stack developer with a passion for problem-solving, I strive to create innovative solutions that enhance the user experience. My expertise lies in the backend, where I enjoy leveraging my technical skills to optimize functionality and streamline processes.
+
+Aside from my coding skills, I'm also a skilled technical writer. My ability to communicate complex concepts in a clear and concise manner has proven invaluable.
+
+Above all, I love bringing ideas to life with code. Whether it's working on a solo project or collaborating with a team, there's nothing more rewarding than watching a concept come to life through the power of technology.
+
+When I'm not coding or writing, you can find me reading books or playing video games. I believe that a well-rounded life leads to better creativity and problem-solving skills, and I strive to maintain a healthy balance between work and play.
+
+Let's work together to bring your ideas to life!
 
 
 ## 🌐 Socials:
