@@ -7,8 +7,6 @@ Aside from my coding skills, I'm also a skilled technical writer. My ability to 
 
 Above all, I love bringing ideas to life with code. Whether it's working on a solo project or collaborating with a team, there's nothing more rewarding than watching a concept come to life through the power of technology.
 
-When I'm not coding or writing, you can find me reading books or playing video games. I believe that a well-rounded life leads to better creativity and problem-solving skills, and I strive to maintain a healthy balance between work and play.
-
 Let's work together to bring your ideas to life!
 
 
