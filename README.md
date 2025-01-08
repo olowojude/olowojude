@@ -1,15 +1,11 @@
 # Hi there 👋, i'm Olowo Jude
 
 ## What i do:
-As a full-stack developer with a passion for problem-solving, I strive to create innovative solutions that enhance the user experience. My expertise lies in the backend, where I enjoy leveraging my technical skills to optimize functionality and streamline processes.
+As a Full stack developer, I am proficient in a wide range of technologies, including Python, JavaScript, Django, Django Rest Framework, Fast API, ReactJS, SQL, PostgreSQL, MySQL, HTML, CSS, Bootstrap, SASS, Tailwind CSS e.t.c
 
-Aside from my coding skills, I'm also a skilled technical writer. My ability to communicate complex concepts in a clear and concise manner has proven invaluable.
+Asides my coding skills, i'm also a technical writer with ability to communicate complex concepts in a clear and concise manner, making me a valuable asset in both development and documentation.
 
-Above all, I love bringing ideas to life with code. Whether it's working on a solo project or collaborating with a team, there's nothing more rewarding than watching a concept come to life through the power of technology.
-
-Let's work together to bring your ideas to life!
-
-
+Let's connect👇👇
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jude-olowo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jude_olowo) 
 
