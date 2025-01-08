@@ -1,9 +1,16 @@
 # Hi there 👋, i'm Olowo Jude
 
 ## What i do:
-As a Full stack developer, I am proficient in a wide range of technologies, including Python, JavaScript, Django, Django Rest Framework, Fast API, ReactJS, SQL, PostgreSQL, MySQL, HTML, CSS, Bootstrap, SASS, Tailwind CSS e.t.c
+As a full-stack developer, I specialize in creating robust, scalable, and user-friendly web applications. Whether it’s designing intuitive front-end interfaces with ReactJS, building efficient back-end systems with Django or FastAPI, or managing databases with PostgreSQL and MySQL, I bring ideas to life through clean, maintainable code.
 
-Asides my coding skills, i'm also a technical writer with ability to communicate complex concepts in a clear and concise manner, making me a valuable asset in both development and documentation.
+I’m proficient in a wide range of technologies, including: <br>
+**Backend:** Python, Django, Django Rest Framework, FastAPI<br>
+**Frontend:** ReactJS, HTML, CSS, Bootstrap, Tailwind CSS, SASS<br>
+**Databases:** SQL, PostgreSQL, MySQL<br>
+**Version control**: Git, Github<br>
+
+Asides my coding skills, i'm also a technical writer with ability to communicate complex concepts in a clear and concise manner, making me a valuable asset in both development and documentation.<br>
+**Technical Writing Tools:** Markdown, Postman, Notion, Canva, Insomnia
 
 Let's connect👇👇
 ## 🌐 Socials:
